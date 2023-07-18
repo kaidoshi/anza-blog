@@ -14,7 +14,9 @@ const data = await getCollection("blog");
       >Life Leap with Anza</span
     >.
   </h1>
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-24">
+  <div
+    class="grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-12 md:mt-24 place-items-center place-content-center"
+  >
     {
       data.map((blog) => (
         <BlogCard

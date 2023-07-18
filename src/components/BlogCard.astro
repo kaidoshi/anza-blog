@@ -14,7 +14,7 @@ const { title, description, tags, slug, cover }: Props = Astro.props;
 ---
 
 <div
-  class="max-w-sm rounded-2xl overflow-hidden shadow-lg block hover:rotate-2"
+  class="max-w-sm rounded-2xl overflow-hidden shadow-lg block hover:rotate-2 mb-4 mx-auto md:mx-2 lg:mx-4"
 >
   <a href={`/blog/${slug}`}
     ><img class="w-full" src={`/${cover.src}`} alt={cover.alt} /></a
