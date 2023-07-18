@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .blog-text {
+    @apply leading-9 text-gray-600 text-lg md:text-xl tracking-wide antialiased;
+  }
+}
