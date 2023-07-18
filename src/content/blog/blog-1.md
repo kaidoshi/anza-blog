@@ -14,7 +14,7 @@ I am sure everyone who has travelled to different countries or continent has a b
 I am in my late 40s and I have two kids that are now young adults. I have recently exited a 22-year relationship and have been at a loss in regards to what to do with my life. When my kids were younger, they were a huge part of my day, school, after school activities, etc but now they are young adults, they are living their own lives and I am not needed as much. At the same time this occurred, I decided my current occupation was not the field I wanted to remain in for my career.
 </p>
 
-<img src="/lifechange.png" alt="Life change" />
+<img class=" w-80 float-left mr-6" src="/lifechange.png" alt="Life change" />
 
 <p class="blog-text">
 I struggled what to do, where to go, what is next. There were no obvious sign posts telling me go this way or do this thing. So, with some help, I started to imagine what future I wanted now. What shape I wanted my life to take and how I could best achieve that goal. I tried (this was really hard) to imagine no restrictions and let my heart lead the way.
@@ -26,7 +26,7 @@ Well I have news for you that you can dream big, that you can ask “what if” 
 I have felt unaccomplished and under supported for much of my life. Now that life was looking so different from what I had expected at this point in my life, I decide to make a big change. That change was to move out of Canada and go and experience life!
 </p>
 
-<img style="width:500px" src="/mappin.png" alt="Map pin" />
+<img style="width:600px" src="/mappin.png" alt="Map pin" />
 
 <p class="blog-text">
 Read my next post to find out where I decided to go though there is a clue in this post ☺.
