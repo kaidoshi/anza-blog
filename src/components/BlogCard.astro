@@ -22,7 +22,7 @@ const { title, description, tags, slug, cover }: Props = Astro.props;
   <a href={`/blog/${slug}`} class="px-6 py-4 block">
     <div class="font-bold text-xl mb-2">{title}</div>
     <p class="text-gray-700 text-base">
-      {description.slice(0, 180)}...
+      {description.slice(0, 180)}{description.length > 180 && "..."}
     </p>
   </a>
   <div class="px-6 pt-4 pb-2">
