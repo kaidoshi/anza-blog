@@ -5,7 +5,7 @@ author: Anza
 description: Life Leap with Anza is a captivating blog where Anza, a recently single mom in her late 40s, explores her newfound freedom and quests for self-discovery. After exiting a 22-year relationship and with her kids grown up, she embarks on a journey to redefine her life and seize her 'what ifs.' Join her as she navigates her extraordinary adventures, personal growth, and the trials and triumphs of starting anew, told with honesty, warmth, and a dash of humor. Will her experiences inspire you to ask your own "what if?" Follow along to find out.
 image: { src: "lifechange.png", alt: "life chage" }
 draft: false
-tags: ["Self-Discovery", "Life-Transition", "Adventure-Travel"]
+tags: ["Self-awareness", "Life-Transition", "Adventure-Travel"]
 ---
 
 Hello (annyeong haseyo), my name is Anza and I was encouraged to start this blog. I am not much of a writer in any way but a remarkably close relative who has been my backbone for the past 11 years and my biggest supporter has somehow persuaded me to start this blog.
