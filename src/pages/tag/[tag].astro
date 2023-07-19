@@ -21,14 +21,17 @@ export async function getStaticPaths() {
 const { tag } = Astro.params;
 const { posts } = Astro.props;
 console.log(posts);
-const showPosts = posts.filter((post) =>
-  post.data.tags.map((tag) => slugify(tag)).includes(tag!)
+const showPosts = posts.filter((post: any) =>
+  post.data.tags.map((tag: any) => slugify(tag)).includes(tag!)
 );
 ---
 
 <BaseLayout title="Life Leap with Anza">
   <h1 class="text-2xl font-bold text-center md:text-3xl lg:text-4xl py-1">
-    All posts on #{tag}
+    All posts on <span
+      class="bg-gradient-to-br from-amber-300 via-orange-500 to-yellow-400 bg-clip-text text-transparent"
+      >#{tag}</span
+    >
   </h1>
   <div
     class="grid gap-6 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-12 md:mt-24 place-items-center place-content-center"
