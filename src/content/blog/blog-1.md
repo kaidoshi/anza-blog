@@ -17,9 +17,9 @@ I am sure everyone who has travelled to different countries or continent has a b
 <br />
 I am in my late 40s and I have two kids that are now young adults. I have recently exited a 22-year relationship and have been at a loss in regards to what to do with my life. When my kids were younger, they were a huge part of my day, school, after school activities, etc but now they are young adults, they are living their own lives and I am not needed as much. At the same time this occurred, I decided my current occupation was not the field I wanted to remain in for my career.
 
+<br />
+<br />
 <img class=" lg:w-80 lg:float-left lg:mr-6" src="/lifechange.png" alt="Life change" />
-<br />
-<br />
 I struggled what to do, where to go, what is next. There were no obvious sign posts telling me go this way or do this thing. So, with some help, I started to imagine what future I wanted now. What shape I wanted my life to take and how I could best achieve that goal. I tried (this was really hard) to imagine no restrictions and let my heart lead the way.
 <br />
 <br />
