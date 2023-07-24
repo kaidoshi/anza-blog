@@ -2,6 +2,7 @@
 const { title } = Astro.props;
 import "../styles/global.css";
 import BaseHeader from "../components/BaseHeader.astro";
+import Footer from "../components/Footer.astro";
 ---
 
 <html lang="en">
@@ -15,5 +16,6 @@ import BaseHeader from "../components/BaseHeader.astro";
   <body class="mx-4 md:mx-6">
     <BaseHeader />
     <div class="container max-w-7xl mx-auto mt-12"><slot>Default</slot></div>
+    <Footer />
   </body>
 </html>
