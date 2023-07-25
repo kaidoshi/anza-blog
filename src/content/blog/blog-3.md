@@ -1,27 +1,56 @@
 ---
-title: Yet Another Blog
-pubDate: 2023-05-17
+title: "Plans change..back to the drawing board?!"
+pubDate: 2023-07-24
 author: Anza
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim praesent elementum facilisis leo vel. Felis bibendum ut tristique et egestas quis ipsum. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Scelerisque purus semper eget duis at tellus at urna. Quis hendrerit dolor magna eget est lorem ipsum dolor. Praesent semper feugiat nibh sed pulvinar. Molestie a iaculis at erat pellentesque. Varius sit amet mattis vulputate enim nulla. Sed risus pretium quam vulputate dignissim suspendisse in. Sed adipiscing diam donec adipiscing tristique risus nec. Cras adipiscing enim eu turpis. Sed velit dignissim sodales ut eu sem integer vitae. Massa tempor nec feugiat nisl pretium fusce id velit.
-image: { src: "mountain.jpg", alt: "mountain" }
+description: Anza hits a major bump in the road. Is it time to pack it in or readjust?
+image: { src: "book.png", alt: "a notebook saying todo: learn a new language" }
 draft: false
-tags: ["Mountain", "Travel", "Adventure-Travel"]
+tags: ["Fineprint", "Flexibility", "Allisnotlost"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Euismod quis viverra nibh cras. Sit amet venenatis urna cursus eget nunc. Nulla malesuada pellentesque elit eget gravida cum sociis natoque penatibus. Condimentum vitae sapien pellentesque habitant morbi. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Purus ut faucibus pulvinar elementum integer enim neque volutpat. Et molestie ac feugiat sed. Hendrerit gravida rutrum quisque non tellus orci. Fames ac turpis egestas maecenas pharetra convallis. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Gravida cum sociis natoque penatibus. Elit at imperdiet dui accumsan. Elementum nisi quis eleifend quam adipiscing vitae. Sed augue lacus viverra vitae congue eu consequat ac. Facilisi morbi tempus iaculis urna id volutpat lacus laoreet non.
-<br />
-<br />
-<img class=" my-6 w-[26rem] lg:w-72 lg:float-left lg:mr-4" src="/mountain.jpg" alt="Map pin">
+    * What started it all?
+    * Where are you looking to go and why?
+    * What barriers are we encountering?
 
-<strong>When we have many small images, we can use this layout</strong> morbi tristique. Sit amet justo donec enim diam vulputate. Quam vulputate dignissim suspendisse in. Risus ultricies tristique nulla aliquet enim tortor. Ullamcorper velit sed ullamcorper morbi tincidunt. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. At erat pellentesque adipiscing commodo. Quis auctor elit sed vulputate mi sit amet mauris commodo. Mauris augue neque gravida in fermentum et sollicitudin ac orci. Amet porttitor eget dolor morbi non arcu risus quis varius. Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Laoreet id donec ultrices tincidunt. Et tortor consequat id porta nibh. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. Mattis pellentesque id nibh tortor id aliquet lectus. Parturient montes nascetur ridiculus mus. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Massa ultricies mi quis hendrerit dolor magna. Egestas maecenas pharetra convallis posuere morbi.
 <br />
 <br />
-Pharetra diam sit amet nisl suscipit adipiscing bibendum. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus mattis. Proin sagittis nisl rhoncus mattis rhoncus. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero. Penatibus et magnis dis parturient montes nascetur ridiculus mus. Feugiat nibh sed pulvinar proin gravida hendrerit. Nulla facilisi morbi tempus iaculis urna. In hendrerit gravida rutrum quisque non tellus. Et magnis dis parturient montes nascetur ridiculus. Id semper risus in hendrerit. Duis tristique sollicitudin nibh sit amet commodo nulla. Eget mauris pharetra et ultrices neque ornare. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas.
-<br />
-<br />
-<img class=" my-6 lg:w-72 lg:float-right lg:ml-4" src="/mappin.png" alt="Map pin">
 
-Id venenatis a condimentum vitae. Cursus turpis massa tincidunt dui ut ornare lectus sit amet. Ut diam quam nulla porttitor massa id neque. Nisl suscipit adipiscing bibendum est ultricies integer quis. Dictum fusce ut placerat orci nulla. Tincidunt vitae semper quis lectus nulla at volutpat. Tellus cras adipiscing enim eu turpis egestas. Quam adipiscing vitae proin sagittis. Amet est placerat in egestas erat imperdiet sed euismod. Dignissim suspendisse in est ante in nibh mauris cursus mattis. Nibh sit amet commodo nulla. Arcu non odio euismod lacinia. Nisi est sit amet facilisis magna etiam tempor orci. Pharetra convallis posuere morbi leo.
+<div class=" flex gap-8 items-center">
+    <img class=" w-32 h-32" src="/cry.png" alt="cry face"> 
+    <p>This was my actual face when I found out this information. I have none of
+these requirements, I was heart broken, crushed – to the point of borderline
+depression.</p>
+</div>
+
 <br />
 <br />
-Ultrices neque ornare aenean euismod elementum nisi quis. Sit amet cursus sit amet dictum sit. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Vestibulum rhoncus est pellentesque elit. Sed felis eget velit aliquet. Ultricies leo integer malesuada nunc. Auctor elit sed vulputate mi sit amet. Posuere urna nec tincidunt praesent semper feugiat nibh sed. Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Condimentum mattis pellentesque id nibh tortor. Orci a scelerisque purus semper.
+
+My wonderfully supportive cousin Sara, told me “that we can still do this, we will find a way”.
+We started to brainstorm how I could accomplish this dream.
+<br />
+<br />
+I remembered that I had one course to take in college to get my Diploma in Business
+Administration – Accounting. It had been some time since I had been to college but I
+decided to try and see what happened. I called my college to find out how and if it was still
+possible to get my diploma for the program that I took over 20 years ago. I figured I could at
+least finish something in life. I hope that getting my diploma would get me closer to going to
+South Korea and maybe from there onto other countries to teach English as well.
+<br />
+<br />
+Finally, one small piece of success, I was able to register to take my final class to obtain my
+diploma but I still hadn’t worked out how to move forward from there to follow my dreams. I
+knew there were other countries with less stringent requirements but my heart had settled
+on South Korea for the first part of my journey. It felt right.
+<br />
+<br />
+
+With my determination to make South Korea my first stop and to keep my flagging hopes alive, I decided to learn Hangul and my cousin decided to make this her new things she did for the year. Languages does not come easily to either of us so we started with some private lessons from Joohe (Judy) to learn the alphabet and get some of the basics down.
+<br />
+<br />
+In my brand new journal, I wrote out a to do list to get to South Korea and this was the top of it as this was something I could do. Each lesson we diligently applied ourselves. I wrote out the alphabet as we learned it and we practised. Joohe was most patient and it was novel to learn a language over 60 minute zoom lessons. Joohe made the time fly by and after several weeks we had the alphabet and some basic words down like chijeu is cheese, keopi is coffee which is written like 커피 in Hangul.
+<br />
+<br />
+<img class=" mx-4" src="/book.png" alt="Map pin">
+
+<br />
+Taking these little actions started to bring me out of my slump, a glimpse of hope!
