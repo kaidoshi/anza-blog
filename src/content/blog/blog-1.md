@@ -8,7 +8,7 @@ draft: false
 tags: ["Self-awareness", "Life-Transition", "Adventure-Travel"]
 ---
 
-Hello (annyeong haseyo), my name is Anza and I was encouraged to start this blog to share with others. I am not much of a writer in any way but a remarkably close relative who has been my backbone for the past 11 years and my biggest supporter has somehow persuaded me to start this blog.
+Hello (annyeong haseyo), my name is Anza and I was encouraged to start this blog to share my journey with others. I am not much of a writer in any way but a remarkably close relative who has been my backbone for the past 11 years and my biggest supporter has somehow persuaded me to start this blog.
 <br />
 <br />
 
